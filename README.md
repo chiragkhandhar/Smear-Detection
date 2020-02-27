@@ -1,8 +1,6 @@
 # Smear-Detection 
 
-1  Chirag Khandar  
-
-2. AKSHAY KULKARNI
+1  Chirag Khandar  2. AKSHAY KULKARNI
 
 ## Aproach
 
